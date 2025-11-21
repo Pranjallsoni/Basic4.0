@@ -19,8 +19,8 @@ Reversing using Python slicing [::-1]
 Clean output with labels
 
 📁 Skills Demonstrated
-Dictionary operations
-User input handling
-List slicing
-List reversal
-Basic I/O formatting
+Dictionary operations,
+User input handling,
+List slicing,
+List reversal,
+Basic I/O formatting.
