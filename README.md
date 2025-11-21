@@ -22,7 +22,5 @@ Clean output with labels
 Dictionary operations
 User input handling
 List slicing
-
 List reversal
-
 Basic I/O formatting
